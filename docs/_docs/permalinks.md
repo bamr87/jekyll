@@ -1,5 +1,5 @@
 ---
-title: Permalinks
+title: Permalinks test
 permalink: /docs/permalinks/
 ---
 
