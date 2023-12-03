@@ -1,10 +1,11 @@
 ---
 title: Quickstart
-permalink: /docs/
+permalink: /jekyll/docs/
 redirect_from:
-  - /docs/home/
-  - /docs/quickstart/
-  - /docs/extras/
+  - /jekyll/docs/home/
+  - /jekyll/docs/quickstart/
+  - /jekyll/docs/extras/
+lastmod: 2023-12-03T01:23:32.686Z
 ---
 Jekyll is a static site generator. It takes text written in your
 favorite markup language and uses layouts to create a static website. You can

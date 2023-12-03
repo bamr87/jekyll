@@ -1,6 +1,7 @@
 ---
 title: Collections
 permalink: /docs/collections/
+lastmod: 2023-12-03T01:04:40.267Z
 ---
 
 Collections are a great way to group related content like members of a team or
@@ -32,7 +33,7 @@ collection, which requires defining the collection as a mapping. For more
 information, see the section <a href="#output">Output</a>.
 
 <div class="note">
-  <h5>Gather your collections {%- include docs_version_badge.html version="3.7.0" -%}</h5>
+  <!-- <h5>Gather your collections {%- include docs_version_badge.html version="3.7.0" -%}</h5> -->
 
   <p>You can optionally specify a directory to store all your collections in the same place with <code>collections_dir: my_collections</code>.</p>
 
